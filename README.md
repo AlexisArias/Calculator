@@ -1,2 +1,2 @@
 # Calculator
-A simple calculator with HTML /CSS and Stimulus.JS
+A simple calculator with HTML /CSS and JavaScript
